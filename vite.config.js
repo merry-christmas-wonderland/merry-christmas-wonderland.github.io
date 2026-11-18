@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/',
+  base: '/christmas-wonderland.github.io/',
   server: { host: true, port: 5173 },
   build: {
     target: 'es2020',
